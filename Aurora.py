@@ -6,6 +6,7 @@ def main():
 
         "model": "llama3.2",
         "prompt": "Olá, tudo bem?",
+        "system": "Converse sempre de forma natural e casual, como um amigo de verdade. Seja breve, direto, sem parecer robótico ou formal.",
         "stream": False
 
       }
